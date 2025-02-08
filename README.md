@@ -12,7 +12,7 @@
 
 ## A Burp Suite extension that renders escaped newlines (`\n`) as actual line breaks
 
-_...making it easier to read and modify request/response data_🔋
+_... making it easier to read and modify request/response data_ 🔋
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/GangGreenTemperTatum/burp-linebreaker)](https://github.com/GangGreenTemperTatum/burp-linebreaker/releases)
 [![GitHub stars](https://img.shields.io/github/stars/GangGreenTemperTatum/burp-linebreaker?style=social)](https://github.com/GangGreenTemperTatum/burp-linebreaker/stargazers)
